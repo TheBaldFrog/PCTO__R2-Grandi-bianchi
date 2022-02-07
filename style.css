@@ -16,6 +16,7 @@ body {
     background-image: url(img/Raee.png);
     background-repeat: no-repeat;
     background-attachment: fixed;
+    background-position: center;
 }
 
 .Formati_imagini {
@@ -23,6 +24,7 @@ body {
     background-image: url(img/Raee.png);
     background-repeat: no-repeat;
     background-attachment: fixed;
+    background-position: center;
 }
 
 .Formati_audio_video {
@@ -30,6 +32,7 @@ body {
     background-image: url(img/Raee.png);
     background-repeat: no-repeat;
     background-attachment: fixed;
+    background-position: center;
 }
 
 .navbar {
